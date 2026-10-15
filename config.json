@@ -1,0 +1,19 @@
+{
+  "seed": 11,
+  "channels": 3,
+  "classes": 10,
+  "clients": 10,
+  "participants": 10,
+  "rounds": 200,
+  "checkpoint_gap": 4,
+  "retention": 32,
+  "local_epochs": 2,
+  "learning_rate": 0.05,
+  "momentum": 0.9,
+  "server_momentum": 0,
+  "weight_decay": 0.0001,
+  "batch_size": 64,
+  "dirichlet_alpha": 0.5,
+  "metadata_bytes": 26214,
+  "injection_magnitude": 0.01
+}
